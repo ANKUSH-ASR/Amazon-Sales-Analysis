@@ -1,3 +1,4 @@
+![Amazon report](https://github.com/ANKUSH-ASR/Amazon-Sales-Analysis/assets/149473786/a5951641-b9f5-47df-a301-08550de94a85)
 # Amazon-Sales-Analysis
 
 AMAZON SALES DATA ANALYSIS USING POWER BI:
